@@ -52,13 +52,13 @@ while True:
     
     notification.notify(title= title,
                         message= message,
-                        app_icon = "/home/lubu/Downloads/lorder.png",
+                        app_icon = "",
                         timeout= 10,
                         toast=False)
     
     notification.notify(title= title,
                         message= messagee,
-                        app_icon = "/home/lubu/Downloads/lorder.png",
+                        app_icon = "",
                         timeout= 10,
                         toast=False)
     
